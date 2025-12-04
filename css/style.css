@@ -27,3 +27,8 @@ ol {
     list-style-type: decimal;
     padding-left: 20px;
 }
+
+dt {
+    font-weight: bold;
+    color: #2c3e50;
+}
