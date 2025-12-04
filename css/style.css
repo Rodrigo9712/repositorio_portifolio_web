@@ -49,3 +49,8 @@ table, th, td {
 thead{
     background-color: #ecf0f1;
 }
+
+td {
+    padding: 8px;
+    text-align: center;
+}
