@@ -41,3 +41,11 @@ table {
     width: 100;
     border-collapse: collapse;
 }
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+thead{
+    background-color: #ecf0f1;
+}
