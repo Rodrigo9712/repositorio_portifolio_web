@@ -1,1 +1,1 @@
-TESTE
+echo "# Projeto Git de Receitas em HTML e CSS" > README.md
