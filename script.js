@@ -1,0 +1,1 @@
+echo 'function mostrarReceita() { document.getElementById("receita").innerText = "Pizza Calabresa"; }' > script.js
